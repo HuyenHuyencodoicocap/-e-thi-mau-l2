@@ -66,6 +66,11 @@ header #logo{
     gap: 10px;
 
 }
-.item{
-    
+@media(max-width:768px){
+    .hotnews{
+        flex-direction: column;
+    }
+    .news{
+        flex-direction: column;
+    }
 }
