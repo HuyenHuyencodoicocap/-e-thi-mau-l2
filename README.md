@@ -1,2 +1,2 @@
-# -e-thi-mau-l2
-https://github.com/HuyenHuyencodoicocap/-e-thi-mau-l2/DeThiMau/index.html
+# -e-thi-mau
+https://huyenhuyencodoicocap.github.io/-e-thi-mau-l2/DeThiMau/index.html
