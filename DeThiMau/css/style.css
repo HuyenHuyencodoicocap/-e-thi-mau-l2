@@ -39,9 +39,15 @@ header #logo{
 .textnews{
     margin-left: 10px;
 }
+.textnews .title{
+    padding: 0;
+}
 .title{
     background: linear-gradient(#FCD91D,#FBE159,#fbe57d);
+    margin-bottom: 0px;
+    padding: 10px;
 }
+
 .content{
     background: linear-gradient(to right,#cccaca,#484848);
 }
@@ -54,6 +60,12 @@ header #logo{
 
 }
 .news{
-    display: flexs;
+    display: flex;
+    box-sizing: border-box;
+    background: linear-gradient(to right,#565454,#6e6c6c);
+    gap: 10px;
 
+}
+.item{
+    
 }
